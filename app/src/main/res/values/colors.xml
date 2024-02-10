@@ -10,4 +10,5 @@
     <color name="colorEditTextBorderColor">#E9EBEF</color>
     <color name="my_light_primary">#2677F9</color>
     <color name="colorPrimaryButtonBg">#f9a826</color>
+    <color name="black">#000000</color>
 </resources>
